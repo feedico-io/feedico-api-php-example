@@ -112,7 +112,11 @@ do {
 | Repo | Language |
 |------|----------|
 | **This repo** | PHP |
+| [feedico-api-python-example](https://github.com/feedico-io/feedico-api-python-example) | Python |
+| [feedico-api-node-example](https://github.com/feedico-io/feedico-api-node-example) | Node.js |
 | [feedico-api-csharp-example](https://github.com/feedico-io/feedico-api-csharp-example) | C# / .NET |
+| [feedico-api-postman](https://github.com/feedico-io/feedico-api-postman) | Postman |
+| [feedico-etl-starter](https://github.com/feedico-io/feedico-etl-starter) | ETL |
 | [feedico-wp-plugin](https://github.com/feedico-io/feedico-wp-plugin) | WordPress plugin |
 
 ---
